@@ -1,0 +1,394 @@
+Project,Goal,Subgoal,Would Abi have formed the subgoal (yes/no/maybe) as a step to her overall goal? ,Why ,Action,[BEFORE] would Abi know what to do at this step?,"[BEFORE] and why? 
+
+",[AFTER] will Abi know that s/he did the right thing and is making progress toward their goal?,"[AFTER] and why? 
+"
+Kubernetes,Find an issue to work on,Find information about issue list,Yes,,Read Readme.md,maybe,Looking at the initially page she wouldn't know that there is a readme below but due to her info processing style she would probably scroll and eventually find the readme and read it,maybe,"No mention of ``issue list'' in the file
+No link to the issue list 
+
+There is no mention of issues in the readme but there is a link to a community repository that says people can learn how to contribute code or documentation which could have something to do with the issue list. "
+,,,,,Click 'community repository',maybe,"there is a ""how to contribute code and documentation"" near the link but no mention of ""issue"" or ""issue list""
+
+Abi would see that it says ""contribute"" and know that this would take her to find information on the issue list. But it also doesn't explicitly say issues which could stear her away",yes,
+,,,,,"Click ""find something to work on""",maybe,"She sees ""file an issue"" and ""find something to work on"" and ""contribute""
+
+Her subgoal right now is to find information about the issue list, not to find something to work on so Abi might click another link hoping to get information before actually working on an issue. But since her overall goal is to find an issue to work on, she might click it.","
+Maybe","she sees browse ''open issues''
+
+The first sentence says ""This document is the single source of truth for how to contribute to the code base."" however there is not much specific mention of the issue list or anything specifically about it."
+,,,,,click on 'your first contribution,maybe,abi might think to click on this because the words decribing the link match to abi's situatuion and goals. they probably lead to more information but she did not find anything yet,yes,
+,,Find the issue list,Yes,,"Click on ""open issues""",yes,,yes,
+,,Choose an issue to work on,Yes,,Click on a good first issue,yes,,yes,
+,File a new issue,Find information about filing a new issue,Yes,,Read Readme.md,yes ,,No,"sees ""host all information"", ""sees our documentation"", sees ""contribute code and documentation""
+no mention of ""issue"", ""file an issue""
+
+There is not any information on the README about issues or filing new issues"
+,,,,,"Click on ""community repository""",No,"sees ""host all information"", ""sees our documentation"", sees ""contribute code and documentation""
+no mention of ""issue"", ""file an issue""
+might click on ""kubernetes.io"" (see our documentation) instead of ""community repository"" 
+
+""community repository"" doesn't specify filing an issue and even though it says contribute code, shes just trying to file an issue, not contribute code","
+
+No","
+Even though clicking ""communtiy repo"" takes Abi to a new page, she immediately sees a list of files again and thinks that it took her back to the same page or a page that won't provide any info. sees the link ""how to file an issue"" under the header ""Contribute"" but it does not complete her subgoal"
+,,,,,"Click on ""How to file an issue""",yes,,No,"sees "" Feel free to browse the open issues and file new ones""
+
+she clicked on ""how to file an issue"" so she expect to find more information about how to file an issue but she didnt find more infor just a link to ""open issues""
+
+The link takes to to a page that does not really meantion how to file issues which is what the link said. Abi might not think that this is where she wanted to go."
+,,File a new issue,No,"Risk Aversion
+
+abi has not found enough information on the previous page to make her feel that this is her next step.","Click on ""open issue""","yes 
+
+",,yes,
+,,,,,"Click on ""new issue"" button","yes 
+",,yes ,
+,,,,,"Click general issue ""get started""",Yes,,Yes,
+,,,,,Filling up the form and submit the new issue,"yes 
+",,,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,Yes,,Read the readme.md,yes,,"Maybe
+","She sees 'how to contribute code and documentation'. She sees 'new pull request' but no information. She is looking for information right now.
+
+She sees 'new pull request' but no information. She is looking for information right now.
+
+Abi sees where to click (community repo) to find more info about how to make a documentation contribution"
+,,,,,Click on 'community repository',maybe,"there is a ""how to contribute code and documentation"" near the link but no mention of ""issue"" or ""issue list""","Maybe
+","She finds information about a pull request
+
+She does not find anything about 'documentation contribution' even though she clicked to find more information on how to contribute and documentation
+
+Abi only sees a bunch of files and it even looks like the same page that she was just on. There is also no mention of documentation in the actual text of the community repo."
+,,,,,Click on 'open a pull request',Maybe,"It is her only option
+
+not exactly what she is looking for but It is the closest thing to her overall goal in this page 
+
+Abi's overall goal is to Make a documentation contribution to the readme.md and send a pull request but her subgoal is to just find information about how to make a documentation contribution so she might not think this link will give her that information",No,"There's nothing about documentation contribution
+
+Abi doesn't find any information about how to make a documentation contribution, only a link to making ""your first contribution"""
+,,Make a documentation contribution to the readme.md on the landing page,No,Abi didn't find information about how to edit the readme or any documentation for that matter...she wouldn't think this is her next action.,Click on readme.md from the file list,No ,"There is no edit option on the readme.md file. She is already in the readme, so she would not want to click on it again on the list of files.
+
+Abi thinks she is already viewing the readme so she wouldn't think to click the readme in the file list, but she may since it could lead directly to how to edit the readme. She may also click ""clone/download"" if she is at all familar with GitHub workflow...",No,"She is in the same file as before. She expected an editable file but this is not editable.
+
+Abi might feel like she ended up in the same place she started if she sees the readme page again. But tht pencil in the corner might give her a sign that she is in the right track if she is familiar with text editors"
+,,,,,"Click on the ""pencil"" icon to edit the file",maybe,"She doesn't know it's an edit icon unless she hovers over it. The icon is tiny, she might not notice it.
+
+Abi is familar with text editors and knows what the pencil means but it says ""fork this project and edit the file"" the forking part would confuse her if she's not familiar with how github open source works. She may look for another way to edit the file without needing to fork it.",Yes,
+,,,,,Make a change ,Yes,,Yes,
+,,,,,Fill the form and click on 'propose file changes',Maybe,"She sees the two text boxes. The green button is clickable.
+
+Once you type things into the box the propose file changes button lights up so I think Abi would know to click that. And she would probably know what to put in the box but would maybe like to see some more information about what to write",,
+Rails,Find an issue to work on,Find information about issue list,Yes,,Read the readme,yes,,maybe,"It does not exactly mention issue list , file or issue but a lot of similar words ""issue tracker""
+
+Contributing is a header and a link 
+Links are blue which lets Abi know these are links.
+
+Abi sees the contributing header and a link that says ""Contributing to Ruby on Rails guide"" and so those would hint that she was on the right track."
+,,,,,"Click on ""Contributing to Ruby on Rails guide"" under the Contributing Header",Maybe,"Two links that mentions guide is confusing for her
+
+Abi might click on Contributing ot Ruby of Rails guide but she might also click the code of conduct link because it is relating to issue tracking and Abi might want to learn mor eabout that",Yes,
+,Find an issue to work on,Find the issue list,Yes,,"Click on ""issues list""",yes,,Yes,
+,,Choose an issue to work on,Yes,,"Click on the issue with ""good first issue"" tag",Maybe,"She might click on the link which says ""Here are some good first issues"" since she does not see any good first issue on the first page
+
+She might go through all tags to see which fits better
+
+Abi might get to the 5th page because she is a comprehensive reader but she may give up sooner since she won't see a ""good first issue"" for awhile. ",yes,
+,File a new issue,Find information about filing a new issue,Yes,,Read the ReadMe,maybe,Looking at the initially page she wouldn't know that there is a readme below but due to her info processing style she would probably scroll and eventually find the readme and read it,"maybe
+","It does not exactly mention filing an issue
+
+Abi sees the contributing header and a link that says ""Contributing to Ruby on Rails guide"" and so those would hint that she was on the right track."
+,,,,,"Click on ""Contributing to Ruby on Rails guide"" under the Contributing Header",maybe,"There is a lack of keywords she is looking for. 
+
+She might click on 'join us'. She might click on 'code of conduct' since that is the only link with the keyword 'issue' in the same sentence.
+
+Abi is trying to file a new issue and so contribuiting to Ruby on Rails is what shes trying to do so she would want ot click that link",yes,
+,,File a new issue,Yes,,"Click ""issues"" under creating a bug report",yes,,yes,
+,,,,,Type keywords about issue in search bar,maybe,"The search bar was not empty in the beginning
+
+Filters might be confusing. It might mislead Abi to think that she can only enter predeturmined filters. Also due to Abi's information processing style she might be more likely to read through the issues rather than search.",No,"Issues popped up are closed. The filters might not be working
+
+Could be confusing that the word she searched is not highlighted. Some of the issues might mention it in their documentation (More of a Github issue)"
+,,,,,"Backtrack to Ruby Guide, and click ""open a new issue""",yes,,yes,
+,,,,,Fill out and submit the issue,maybe,"Depending on Abis background, if shes not familiar with coding, the issue template may be a bit confusing. The pound symbols and astriks and <-- --> might confuse her.I",,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,Yes,,Read the ReadMe,maybe,Looking at the initially page she wouldn't know that there is a readme below but due to her info processing style she would probably scroll and eventually find the readme and read it,maybe,"There's both keywords but not together. The word Documentation and Contributing are in separate links
+
+Abi sees the contributing section."
+,,,,,"Click on ""Contributing to Ruby on Rails guide"" under the Contributing Header",maybe,"There are no keyword around the link that would indicate that the link is relevant to documentation contribution 
+
+Abi would know to Click on this link because she is attempting to contribute and find out more about it.",yes,
+,,,,,Read the Contributing documentation section,yes,,yes,
+,,Make a documentation contribution to the readme.md on the landing page,Yes,,Go back to readme and select it from files listed on main page,No,"She does not see anything about going back to the readme 
+
+From where Abi was, there was no way to get to the readme. If she clicked on the ""here"" link, it would take her to a list of files and since the readme is not included in that list of files Abi would that that the readme is not an editable document and give up.",maybe,"She doesn't know it's an edit icon unless she hovers over it. The icon is tiny, she might not notice it.
+
+She would see the edit pen in the right hand corner and know that she is making progress."
+Symfony,Find an issue to work on,Find information about issue list,Yes,,Read the ReadMe,maybe,Looking at the initially page she wouldn't know that there is a readme below but due to her info processing style she would probably scroll and eventually find the readme and read it,maybe,"There is a link to 'contributing code' and 'contributing documentation'. 
+
+No mention of issue list ; security issues is present
+
+Abi feels like she's making progress but she also might be confused. There are a lot of options that relate to her overall goal which might be overwhealming and confusing."
+,,,,,"Click on ""contributing documentation""",maybe,"It is the closest thing she can find to 'issue list' . 'Issue list' keyword is absent
+
+There are a lot of options are there is not one that specifically says for her skill level which link she should click. But the fact that it specifies ""documentation"" might make Abi more inclined to click.",no,"No mention of the word 'issue' or 'issue list'
+
+She sees ""Contribution Process"" and ""Contributing to Symfony"" "
+,,,,,"Click on ""contributing process""",maybe,"It's about contributing fixes but not about the 'issue list'.
+
+Abi may be tempted to click documentation formatting due to her info processing style, but that link doesn't provide her with much relevant info. She would eventually click ""contributing process"" though",no,"It's a lot of code, no information about issue list.
+
+Abi sees a lot of releveant information and sees that they will provide context before she needs to actually complete any steps (i.e., ""before your first contribution"")"
+,,Find the issue list,No,abi has not found enough information about the issue list and will not feel like she could move on to find the issue list. the previous page she was on also makes it seem like it is a long process,Click on github.com/symfony/symfony-docs under Step 1 of Your First Documentation Contribution,No,"It does not provide any information about the 'issue list'. She is not looking for that.
+
+Abi would begin forking an cloning and following all the steps to make a documentation contribution but then she'd realize that she doens't even know what issue she's trying to fix yet and she can't find the issue list.",No,"There's no mention about 'issue'. It's about 'documentation contribution', which is not her goal.
+
+Abi might be confused because this does not really line up with the information she read about. Also Abi might think she's back to the same readMe which might make her feel like she just did a big circle. There is still not. a lot of information about issues. There is another link on the page which doesn’t give her any information"
+,,,,,"Click on ""Issues"" tab",maybe,"She might want to backtrack. She does not get any information. She wants more information before clicking on the 'issues' tab.
+
+Abi might have given up before this. But if she had persued, then she would click the issues tab since it is the only thing related to issues on the page.",yes,
+,,Choose an issue to work on,Yes,,Select an issue to work on,No,"No 'good for newcomer' or newcomer related tag.
+
+Abi wouldn't be able to find an issue that fits her skill level or is good for newcomers. She would stop looking at this point. Even the link that GitHub has that says they have collected issues that are good for newcomers has no issues associated with it.",,
+,File a new bug report issue,Find information about filing a new issue,Yes,,"Click ""contributing code""",No,"The word 'issue' is in a different contaxt ""Security issues''. There's presence of 'contributing documentation' and 'contributing code'.
+
+Abi would not know to click this link. She is presented with many link options and contributing code is not the most relevant in her situation. Abi would more likely click contributing documenation.",maybe,"No presence of 'filing issues' keyword. But there is 'proposing a change' and a link that says existing issues.
+
+She sees 'reporting a bug'
+
+Abi sees reporting a bug and security issues which might make her think shes on the right track. But there is not anything that says file a new issue so Abi might feel some uncertainity with her action."
+,,,,,"Click ""reporting a bug""",maybe,"Abi would see that as her most likely option but doesn't see any info about ""filing an issue"" or issues specifically",maybe,Abi sees a lot of info about how to submit a bug and and is given in a step by step instructional list but it still does not say anything about filing an issue.
+,,File a new bug report issue,Yes,,"click ""tracker"" link ",maybe,"Because of Abi's info processing style she migh click the ""documentation"" link first to double check shes not misusing the framework and from there get a little confused. There is also no information about filing issues specifically",yes,
+,,,,,"Click on ""new issue""",Yes,,Yes,
+,,,,,"Click ""bug report issue""",Yes,,Yes,
+,,,,,Fillout issue form,maybe,"There's already information in the text editor.
+
+Depending on Abis background, if shes not familiar with coding, the issue template may be a bit confusing. The pound symbols and astriks and <-- --> might confuse her.",,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,Yes,,Read the readme.md,yes,,yes,
+,,,,,Click on 'contributing documentation',yes,,maybe,The header says 'contribution to symfony' and not documentation contribution.
+,,,,,Click on 'contribution process',maybe,she could click on 'documentation format' because she wants to make a documentation contribution.,yes,
+,,Make a documentation contribution to the readme.md on the landing page,Yes,,Starts on the landing page,yes,,yes,
+,,,,,Click on readme.md in the list of files,maybe,"She can read the 'readme.md' file. 
+
+She might not think of clicking it again.",maybe,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+Definitely Typed,Find an issue to work on,Find information about issue list,Yes,,Read the readme.md,yes,,No,"There's nothing about the 'issue list'. 'issue' is mentioned in one of the sections but in a different context ""please raise an issue""."
+,,Find the issue list,Maybe,abi has not found enough information about the issue list and will not feel like she could move on to find the issue list,Click on the 'issues' tab,maybe,She needs more information. Nothing says that she would find the issue list there,no,She needs more information. Nothing says that she would find the issue list there. No good for newcomers tag
+,,Choose an issue to work on,Yes,,Click on the link that says 'we've collected some good first issues for you',yes,,No,"There are no indication, no 'good-for-newcomer' tags."
+,,,,,Choose a good first issue,maybe,Only one issue is tagged which is 7 years old,maybe,Not clear. Not enough information.
+,File a new issue,Find information about filing a new issue,Yes,,Read the readme.md,yes,,No,"She doesn't see any information about filing new issues,"
+,,File a new issue,No,Abi has not found enough information,Click on the 'issues' tab,maybe,It is the only tab that says 'issue'.,Yes,
+,,,,,Click on 'new issue',yes,,Maybe,She needs more information. It is a template but does not guide her and she likes guidelines.
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,Yes,,Read the readme.md,yes,,no,"nothing about ""documentation contribution"""
+,,Make a documentation contribution to the readme.md on the landing page,No,Abi has not found enough information,Click on the 'readme.md' file in the list,maybe,"The readme.md file is at the bottom of the page, did not find any keywords
+
+There are multiple readme files. ",maybe,"It's the same file as before, not editable. "
+,,,,,"Click on the ""pencil"" icon to edit the file",maybe,"She doesn't know it's an edit icon unless she hovers over it. The icon is tiny, she might not notice it.",yes,
+,,,,,Make a change ,yes,,yes,
+,,,,,Fill the form and click on 'propose file changes',yes,,,
+Alpaca,Find an issue to work on,Find information about issue list,Yes,,Read the readme.md,yes,,No,"There's presence of the word 'issue' and 'open issue', 'implementation issues', but no informarion about the issue list. 
+
+There's a link but it is not labelled ""https://github.com/alpaca-lang/alpaca/issues/7"""
+,,Find the issue list,Maybe,Abi has not found enough information,Click on the 'issues' tab,maybe,"She does not find any links, or any instructions about where to find the issue list",yes,
+,,Choose an issue to work on,Yes,,Click on the link that says 'we've collected some good first issues for you',yes,,maybe,She wants more information about the issues
+,,,,,Click on 'Doc strings',maybe,She sees more comments,maybe,It looks more like a discussion.
+,File a new issue,Find information about filing a new issue,yes,,Read the readme.md,yes,,no,"There's nothing about 'filing an issue'
+
+There's a link but it is not labelled ""https://github.com/alpaca-lang/alpaca/issues/7"""
+,,File a new issue,No,"Her info processing, learning by process style. She does not have enough information to form this subgoal",Click on the 'issues' tab,maybe,This does not give her enough information,yes,
+,,,,,Click on the 'new issue' button,yes,,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the Readme.md,yes,,No,"Documentation' is present under the header ""installing""
+
+There's absence of ""documentation contribution"" together. There is the presence of ""contributions and help"" but nothing about documentation in there."
+,,Make a documentation contribution to the readme.md on the landing page,No,She did not find any information,Click on Readme.md from the file list,no,She can read the 'readme.md' file. She is in it,maybe,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+,,,,,Click on the pencil icon,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Edit, propose file changes and submit",yes,,,
+Ionic,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,Abi sees that there are headers related to contributing and her overall goal but there is no information about the issue list.
+,,,,,"Click on ""contributing""",maybe,"Abi might also see the ""getting started "" link and want to click on that since she is just startin gout and wants to collect as much inofrmation as possible.",yes,
+,,Find the issue list,yes,,"click ""help wanted""",yes,,yes,
+,,Choose an issue to work on,yes,,select an issue,maybe,"The issues are well labeled, but there is no sign as to what would be one for a good first timer like Abi, she might feel unsure and not chose one.",no,no good for newcomer issues
+,File a new bug report issue,Find information about filing a new issue,yes,,Read Readme.md,Yes,,yes,
+,,,,,"Click on ""contributing""",maybe,"Abi would probably click on contributing but above that section it says ""please file an issue on this repository"" so she might want to look into the links under getting started instead.",yes,
+,,File a new bug report issue,yes,,click on reported,yes,,yes,
+,,,,,"click on ""New Issue""",maybe,"Abi might backtrack to the contribution page and click the link, ""create a new issue"" since she saw that that ws the next step after reading the contribution page. But she also might see the new issue and know that is her next step and click that instead.",yes,
+,,,,,"click on Bug Report ""get started""",yes,,yes,
+,,,,,click submit new issue,maybe,"Depending on Abis background, if shes not familiar with coding, the issue template may be a bit confusing. The pound symbols and astriks and <-- --> might confuse her.",,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,Abi sees that there are headers related to contributing and her overall goal but there is no information about documentation contribution
+,,,,,"Click ""contributing""",maybe,Abi would want to gather more information about how to contribute and about documentation contribution specifically before clicking,yes,
+,,Make a documentation contribution to the readme.md on the landing page,yes,,"Click on ""ionic link"" at the top of the github",yes,,yes,
+,,,,,"Click on ""README.md"" in the file list",no,"She's in the readme file, she would not think to click on the file list",maybe,"The pencil icon is small and she might not notice it. Depends on if she hovers over it. Even if she hovers over it, it says ""fork"" and she does not know what that means.
+
+It's the same page as before. "
+,,,,,Click on the pencil icon in the right hand corner,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+N2O,Find an issue to work on,Find information about issue list,yes,,There is no information about issue lists,,,,
+,,Find the issue list,maybe,Abi would maybe look to find an issue list after not finding information. But she also might give up after finding nothing on how to contribute/the issue list itself.,click on issues,maybe,"the issues tab is the only mention of the word issues. There is no information in the Readme, just a couple codes and links",maybe,"abi sees the issues listed. Since there are only two though, she might be a little thrown off by such a small number of issues."
+,,Choose an issue to work on,maybe,There are only two issues so abi might feel uncertain as to which one to click on.,choose an issue,maybe,"Neither issue seems to be very beginer freindly and not very clearly labeled. So because of her info processing style, Abi might not be able to gather enough information about the issues listed and give up",No,The issue is not described or labeled. Abi would get confused and not know where to start.
+,File a new bug report issue,Find information about filing a new issue,yes,,There is no information about issue lists,,,,
+,,File a new bug report issue,maybe,Abi would maybe look to complete her goal after not finding information. But she also might give up after finding nothing on how to contribute/filing a new issue.,click on issues,maybe,the issues tab is the only mention of the word issues.,yes,
+,,,,,click on new issue,yes,,yes,
+,,,,,click submit new issue,maybe,"Depending on how much previous github expereicen abi has had, she might know to fill out the issue box and title. But also because of such little info, she might give up here.",,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the readme.md ,Yes,,No,There is nothing about Documentation contribution
+,,Make a documentation contribution to the readme.md on the landing page,Maybe,Abi has not found enough information about how to contribute documentation.,Click on readme in the file list,No,"She's in the readme file, she would not think to click on the file list",Maybe,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+,,,,,Click on the pencil icon ,Maybe,Depends on if she hovers over it. There is not a lot of information about it.,Yes,
+Chaplin,Find an issue to work on,Find information about issue list,Yes,,Since there's nothing about the issue list in the project,,,,
+,,Find the issue list,Maybe,"Abi knows that she needs to find an issue to work on and that finding the issue list would be a logically step, but she hasn't found enough information to feel that this is her next step","Click ""Issue"" tab",Maybe,"Abi knows that she needs to find the issue list, but she hasn't found enough information to feel that this is her next action, She would most likely need more information.",maybe,Abi sees an issue list and feels confident she's headed in the right direction but Abi has no way of knowing which issue she should choose or one that might fit her skill level
+,,Choose an issue to work on,No,Abi has no idea what issue to choose to work on,"Click ""delegate in itemview"" ",No ,Abi has no way of knowing which issue she should choose or one that might fit her skill level,No,Abi is able to read the the issue but doesn't know if this one would be good for her to work on and it doesn't describe how to recreate it or go about fixing it
+,File a new bug report issue,Find information about filing a new issue,yes ,,There's nothing about the issue list in the project,,,,
+,,File a new bug report issue,Maybe,Abi knows that she needs to file an issue but she hasn't found enough information to feel that this is her next step,"Click ""Issue"" tab",Maybe,"Abi knows that she needs to find the issue list, but she hasn't found enough information to feel that this is her next action, She would most likely need more information.",Yes,
+,,,,,"Click ""new issue""",yes,,maybe,"Depending on how much previous github expereicen abi has had, she might know to fill out the issue box and title. But also there is no information. Just an editable text box."
+,,,,,click submit new issue,maybe,"Depending on how much previous github expereicen abi has had, she might know to fill out the issue box and title. But also because of such little info, she might give up here.",,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about Documentation Contribution,yes,,Read the readme.md ,Yes,,No,There is no information about Documentation Contribution and how to go about it.
+,,Make a documentation contribution to the readme.md on the landing page,Maybe,Abi has not found enough information,Click on readme in the file list,No,"She's in the readme file, she would not think to click on the file list",Maybe,She expected an editable file.
+,,,,,Click on the pencil icon ,Maybe,Depends on if she hovers over it. There is not a lot of information about it.,Yes,
+Octopress,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,"The issues list is the only mention of issues. It says: Octopress 3.0 is in development at https://github.com/octopress/octopress, so Abi might think she is not in the right place."
+,,Find the issue list,no,Abi knows that her overall goal is to find an issue to work on but nothing lets her know that she needs to find an issue list,Click Issue's tab,Maybe,"The issues list is the only mention of issues but after reading the readme, Abi might want to click on list of third party plug-ins from the contributions section.",yes,
+,,Choose an issue to work on,yes,,"Select ""we've got some good first issues for you""",maybe,Due to her info processing style Abi would see that as an option and since there are no labels on issues she would select that link as her next step,yes,
+,,,,,Click issue to work on ,yes,,No,There is not a huge about of detail or information about the issue after you click. There are just comments from other contributors so Abi would not feel that she is being given enough information.
+,File a new bug report issue,Find information about filing a new issue,yes,,Read the ReadMe,Yes,,no,"There is nothing about filing an issue in the readme so Abi would feel no closer to her goal. It says: Octopress 3.0 is in development at https://github.com/octopress/octopress, so Abi might think she is not in the right place."
+,,File a new bug report issue,Maybe,Abi did not find a lot of information about filing a new issue so she might not think to move on to file a new bug report,Click on the issues tab,No,There is nothing about filing an issue in the readme so Abi would feel no closer to her goal,yes,
+,,,,,"Click the ""new issue"" button",Yes,,No,There is no information about what to type in the text box. 
+,,,,,Fillout issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about Documentation Contribution,Yes,,Read the readme.md ,Yes,,No,There is no information about Documentation Contribution and how to go about it.
+,,Make a documentation contribution to the readme.md on the landing page,Maybe,Abi has not found enough information,Click on readme in the file list,No,"She's in the readme file, she would not think to click on the file list",Maybe,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+,,,,,Click on the pencil icon ,Maybe,Depends on if she hovers over it. There is not a lot of information about it.,Yes,
+Torch7,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,no,"The only mention of issues in the readme is how to reach out for help, and there's no mention of contributing. Abi feels she might not be on the right track."
+,,,,,Click on CONTRIBUTING.md,maybe,"abi's info proccessing style would allow her to see it, but it's barried in wiht a lot of other files so maybe she would not know that that is the action to take.",maybe,"There is information about issue tracker, Abi might be thrown off since she doesn't know if its the same as issue list"
+,,Find the issue list,yes,,Click issue tracker link,maybe,"Because of Abi's info processing style, she would have read the entire page and seen the link to the the issue tracker and know thats where to go to find the issue list in order to complete her overall goal. Abi might be thrown off since she doesn't know if its the same as issue list",yes,
+,,Choose an issue to work on,yes,,Click on we've collected some good first issues for you,Maybe,"because of abi's goal, abi would want to click this. beecause of her info processing style she would see this link as well since the tags dont guide her. ",Maybe,The top describes that these are good first issues but the issues are not labeled very well abd abi might not feel confident about which one to click.
+,,,,,select an issue to work on,yes,,no,"Other than a few user comments, Abi has no other info about the issue she clicks on"
+,File a new bug report issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,no,"The only mention of reporting issues in the readme is how to reach out for help, and there's no mention of contributing. Abi feels she might not be on the right track."
+,,,,,Click on CONTRIBUTING.md,maybe,Due to abi's information processing style she would see contributing.md but abi might feel tempted to click on the reporting bugs likes in the need help section first.,yes,
+,,File a new bug report issue,yes,,click issue tracker link,yes,,yes,
+,,,,,Use github search to see if the issue is already there,yes,,yes,
+,,,,,"click ""new"" issue button",Yes,,maybe,Abi sees the title area and text box but there is very little information on what to write so Abi might feel a little discouraged.
+,,,,,Fillout issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,no,"The only mention of issues in the readme is how to reach out for help, and there's no mention of contributing. Abi feels she might not be on the right track."
+,,Make a documentation contribution to the readme.md on the landing page,No,Abi found no information so she would not know what to contribute or how.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readmen in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",maybe,She is in the same file as before. She expected an editable file but this is not editable.
+,,,,,Click on the pencil icon in the right hand corner,maybe,"The pencil icon is small and she might not notice it. Depends on if she hovers over it. Even if she hovers over it, it says ""fork"" and she does not know what that means.
+
+It's the same page as before. ",yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Disque,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,"Due to Abi's info processing style she probably would get to the bottomto see the part about contributing, but its so long abi might not get to the end."
+,,Find the issue list,maybe,Abi knows that finding an issue to work on is her goal and that she needs to find a list to sort through the issues but she doesn't feel like she's gathered enough info yet,Click on issues tab,maybe,"Abi see's a tab that says issues but she doesn't know if that's the issue list, and there isn't information guiding her to the issue list. ",yes,
+,,Choose an issue to work on,yes,,"Click on ""we've collected some good first issues for you"".",maybe,Abi would read this link and click on it to find issues that would be good for her to start with,yes,
+,,,,,Click on the issue,yes,,maybe,There is little information on the issue itself so abi might feel unsure on how to go about fixing the issue.
+,File a new bug report issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,yes,
+,,File a new bug report issue,yes,,Click on issues tab,maybe,"Abi see's a tab that says issues but she doesn't know if that's the issue list, and there isn't information guiding her to the issue list. ",yes,
+,,,,,"click ""new"" issue button",Yes,,maybe,Abi sees the title area and text box but there is very little information on what to write so Abi might feel a little discouraged.
+,,,,,Fillout issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,no,"The only mention of issues in the readme is how to reach out for help, and there's no mention of contributing. Abi feels she might not be on the right track."
+,,Make a documentation contribution to the readme.md on the landing page,No,abi found no information so she would not know what to contribute or how.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readmen in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",maybe,"The pencil icon is small and she might not notice it. Depends on if she hovers over it. Even if she hovers over it, it says ""fork"" and she does not know what that means.
+
+It's the same page as before. "
+,,,,,Click on the pencil icon in the right hand corner,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,\
+Satellizer,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,no,Abi sees nothing about howto contribute in the readme so she does not feel like shes making orogress.
+,,Find the issue list,no,Abi wouldn't think to do this since she found no information on the README about issues or the issue list,Click the issues tab,maybe,Because Abi has found so little information she might abandon this goal or feel uncertain. But it is the only mention of issues on the page so Abi still might click this tab.,yes,
+,,Choose an issue to work on,maybe,Abi knows that thats her next action but she would no know which one to pick,"Click ""we've collected some good first issues for you""",maybe,Abi is a new commer and this seems to be her only option since none of the issues are labeled in a way that would stand out to a newcommer.,yes,
+,,,,,"Select the second issue down ""documentation site using GitBook""",maybe,She sees the titles which are helpful in deciding which issue would work for her but she doesn't see any other hints to help guide her decision,maybe,There is a checklist that abi can see which helps explain the issue but overall the discription is pretty vague and abi might not feel like she has enough information. It has a few links that are not labelled so she wouldn’t click on them either.
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,no ,"Abi does not feel like shes making progress because there is no information about filing an issue. A lot of codes and links, which do not mean anything to her."
+,,File a new issue,no,Abi wouldn't think to do this since she found no information on the README about issues or the issue list,Click the issues tab,yes,,yes,
+,,,,,"Click ""New issue"" button",Yes,,maybe,Abi sees the title area and text box but there is very little information on what to write so Abi might feel a little discouraged.
+,,,,,Fill out issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,no ,Abi does not feel like shes making progress because there is no information about documentation or contributing
+,,Make a documentation contribution to the readme.md on the landing page,No,abi found no information so she would not know what to contribute or how.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readmen in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",maybe,"The pencil icon is small and she might not notice it. Depends on if she hovers over it. Even if she hovers over it, it says ""fork"" and she does not know what that means.
+
+It's the same page as before. "
+,,,,,Click on the pencil icon in the right hand corner,maybe,The pencil is pretty universeral to mean edit and the tooltip says that this button will allow you to edit which is what abi wants ot do. Abi also doesnt have many other options so she would think to click that,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Scalaz,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,no,Abi sees nothing about howto contribute in the readme so she does not feel like shes making orogress.
+,,Find the issue list,no,Abi wouldn't think to do this since she found no information on the README about issues or the issue list,Click the issues tab,maybe,Because Abi has found so little information she might abandon this goal or feel uncertain. But it is the only mention of issues on the page so Abi still might click this tab.,yes,
+,,Choose an issue to work on,yes,,"Click on ""we've collected some good first issues to work on""",yes,,yes,
+,,,,,"Select ""show[Throwable]"" issue from the list",yes,,Maybe,Abi found information about the issue but not much. She wouldn't feel comfortable working on it until she got more context.
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,no,Abi sees nothing about howto contribute in the readme so she does not feel like shes making orogress.
+,,File a new issue,no,Abi wouldn't think to do this since she found no information on the README about filing an issue or the issue list in general she wouldn't think this would be her next step,Click the issues tab,maybe,Because Abi has found so little information she might abandon this goal or feel uncertain. But it is the only mention of issues on the page so Abi still might click this tab.,yes,
+,,,,,"Click ""New issue"" button",Yes,,maybe,Abi sees the title area and text box but there is very little information on what to write so Abi might feel a little discouraged.
+,,,,,Fill out issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,yes,
+,,,,,Click on Documentation for contributors,yes,,maybe,The first sentence on the page might discurage ABi to think shes in the wrong place since it talks about code and that's not what shes trying to do. But it does say it's intended for contributors and later down in the document it does talk about documentation. So this could make Abi feel like she on the right track.
+,,,,,"Read the ""how can I help"" section",maybe,Due to Abi's info processing style she would want to read this section and gather as much info about contributing as possible.,no,Abi would be confused by the wording and lack of definitions and information in general. She would most likely abandon the project at thiis point since she feels that she is not a good fit for the project.
+,,Make a documentation contribution to the readme.md on the landing page,No,abi found no information so she would not know what to contribute or how.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readmen in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",maybe,"The pencil icon is small and she might not notice it. Depends on if she hovers over it. Even if she hovers over it, it says ""fork"" and she does not know what that means.
+
+It's the same page as before. "
+,,,,,Click on the pencil icon in the right hand corner,yes,,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+System Design Primer,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,"There is a section titled contributing where she sees links and information showing she can contribute, but no information about issue list. "
+,,,,,"Click the ""contributing guidelines""",maybe,It is her only option. Abi would click on contributing guidelines in order to gather as much information she can about how to contribute,maybe,It mentions to check the issue list under translations so abi might think she needs to be making a translation in order to see the issues list. But the title does say contribting and abi might feel assured shes on the right track from that.
+,,Find the issue list,maybe,"The documentation only mentions issues under the translation subsection, she might think this is her next step but only if she decided she wanted to work on translations",Click on issues tab,maybe,Abi knows that her subgoal is to find the issue list and the translation subsection says she should look at the issue list to work on something but she may think that's only to work on translation related issues,yes,
+,,Choose an issue to work on,yes,,"Click on ""we've collected some good first issues to work on""",yes,,yes,
+,,,,,Select an issue to work on,maybe,Abi knows that she should choose an issue based on her subgoal but she wouldn't be sure which one to choose based on the lack of info she is given,yes,
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,yes,
+,,,,,"Click the ""contributing guidelines""",yes,,yes,
+,,File a new issue,yes,,"Click ""submit an issue""",yes,,yes,
+,,,,,"Click ""New issue"" button",Yes,,maybe,Abi sees the title area and text box but there is very little information on what to write so Abi might feel a little discouraged.
+,,,,,Fill out issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,"There is a section titled contributing where she sees links and information showing she can contribute, but no information about documentation contribution"
+,,,,,"Click ""contributing guidelines""",maybe,"Abi knows that she wants to make a contribution so she'd want to click and read ""contributing guidelines"" but it does not say documentations specifically",No,"Nothing about ""documentation contribution"""
+,,,,,"Click ""pull request docs""",No,"Nothing about ""documentation contribution""",Maybe,Abi was able to gather a lot of information on pull requests but there is no information on documentation contributions specifically
+,,Make a documentation contribution to the readme.md on the landing page,no,"Abi would not think to backtrack to the original readme she was on, she would be extremely confused at this point",Go back to the readme,maybe,Abi would know that her subgoal is to get back to the readme landing page but she might be confused how to get there or why she is doing that since she's only seen info about code contributions and using the command line to clone the project,maybe,Abi sees the README.md so abi might feel that she is making progress. But she might still be thinking she needs to fork to make a pull request and might be confused on where to go from here.
+,,,,,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readme in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct. Additionally, there are multiple readme files in the file list that would confuse her, she wouldn't know which one is the right one to edit.",yes,
+,,,,,Click on the pencil icon in the right hand corner,Maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Tmux,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,Abi see's the contributing section and it talks about how to contribute so she'd feel like she's on the right track but it doesnt talk about issue lists and there are a lot of links which don't say where they lead to.
+,,,,,"Click on the ""a list of suggestions for contributions""",maybe,"Abi may be tempted to click on the other link that says read this first before submiting an issue, but it does say that it will provide her more info about contributing.",maybe,Abi sees the title and headings and see that they are reltaed to her goal but she wants information about the issue list. The repo source link is not labelled which might throw her off
+,,Find the issue list,no,"Even though Abi has gathered a lot of information about how issues in this project are structured, she doesn't know that this would be her next step",Click on issues tab,maybe,Abi knows that her subgoal is to find the issue list and the translation subsection says she should look at the issue list to work on something but she may think that's only to work on translation related issues,yes,
+,,,,,Click on we've collected some good first issues for you,maybe,"In the document Abi read beforehand it listed the issues so abi might go to look for this issues she read beforehand. But also since Abi is a newcomer she might think to click on the ""we've collected some good first issues"" link.",yes,
+,,Choose an issue to work on,yes,,Click on Documentation comments and suggestions,yes,,yes,
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,yes,
+,,,,,"Click on ""this document"" link",yes,,yes,
+,,File a new issue,yes,,"click on ""in the manuel link""",yes,,maybe,This takes Abi to the manual page but it is not about filing an issue.
+,,,,,search for issue,No,"Abi's info processing sstyle would make her want to read through the whole thing, which is a lot of text to read through. Searching is more of a tinkering thing so Abi would not search.",maybe,"Abi will either see her issue showing up or not, she'll know if she's making progress"
+,,,,,backtrack to the CONTRIBUTING.md page,maybe,"Abi would know to go back because she's already gone back and knows that there is more to do, but this page did not help her to file a new issue.",maybe,"Abi sees that she is back where she started, no new information"
+,,,,,"Click on ""the changes file link""",No,Abi sees that looking at the changes file is the next item on the TODO list: learning style ; Abi was on this page previously and does not get any more information.,maybe,It takes her to a text file but there is nothing about filing an issue
+,,,,,backtrack to the CONTRIBUTING.md page,yes,,yes,
+,,,,,Click on issues tab,maybe,there is no link or instructions letting Abi know where the issue list is but it is one of the only mentions of issues on the page so she may know that is where she should go,yes,
+,,,,,"Click ""New issue"" button",Yes,,yes,
+,,,,,Fill out issue form,yes,,yes,
+,,,,,click submit new issue button,yes,,,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,Abi see's the contributing section but it talks about contribution suggestions and not documentation contributions
+,,,,,"Click on ""list of suggestions for contributions""",maybe,"Abi may be tempted to click on the other link that says read this first before submiting an issue, but it does say that it will provide her more info about contributing.",maybe,Abi sees the title and headings and see that they are related to her goal but there is nothing about documentation contribution.
+,,Make a documentation contribution to the readme.md on the landing page,no,"Abi has been given no information that this would be her next step, additionally she's only been given info about code contributions, not documentation ones",Backtrack to the landing page,No,Abi did not get information about documentation contribution,No,"Abi sees the landing page that she recognizes, but she does not feel like she is making progress as it is the same list of files"
+,,,,,Click on README from the file list,Maybe,Abi thinks she is already on the README and she would think that she doesnt need to go anywhere. But also she might think to read through the file list and click on the readme file.,No,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+,,,,,Click on the pencil icon in the right hand corner,No,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Winjs,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,"Abi sees a link to click and also the contributing section. she would feel like shes making progress, but there is no information about issue list"
+,,,,,"Click ""contribute"" link in contribute section",maybe,Abi may be tempted to click the link mentioned in issues instead of the contribute link. She also doesn't know where the link will lead because it doesn't tell her if it's more info about contributing or....But she does see that she wants to contribute,maybe,"The titles hint towards information about the issue list, pull requests, etcby saying ""how to contribute"" but no information about the issue list"
+,,Find the issue list,Maybe,After reading the contributing documentation Abi was not given a lot of information and might not think to nedxt find this issue list. All she really got was that she can submit a code fix,"Click ""issues"" tab",maybe,Abi knows that her subgoal is to find the issue list but she doesn't feel that she has gathered enough info to know where it is.,yes,
+,,Choose an issue to work on,yes,,"Click on ""we've collected some good first issues to work on""",maybe,Abi sees the link and since she is a beginer she will think to click that link in order to find issue good for her since there are no tags that guide her.,yes,
+,,,,,Select an issue to work on,maybe,Abi knows that she should choose an issue based on her subgoal but she wouldn't be sure which one to choose based on the lack of info she is given,yes,
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,maybe,"Abi sees a link to click and also the contributing section. she would feel like shes making progress, but there is no information about filing issues"
+,,,,,"Click ""contribute"" link in contribute section",maybe,Abi may be tempted to click the link mentioned in issues instead of the contribute link. She also doesn't know where the link will lead because it doesn't tell her if it's more info about contributing or....But she does see that she wants to contribute,yes,
+,,File a new issue,no,"Abi would think her next step would be to read and sign the CLA, even though she doesn't have to","Click ""issues"" tab",maybe,Abi knows that her subgoal is to find the issue list but she doesn't feel that she has gathered enough info to know where it is.,yes,
+,,,,,"Click ""New issue"" button",Yes,,maybe,"Abi sees the empty text box to write her issue to submit but there is nothing describing what to put and abi got so little information before. The way the information was writting made it seem really intimidating by how they will heavily review the new issues, so abi might feel discouraged."
+,,,,,Fill out issue form,Maybe,Abi sees the empty text boxes but she doesn't exactly know what should go in each one. She doesn't know how much information she should include.,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,"Abi sees a link to click and also the contributing section. she would feel like shes making progress, but there is no information about documentation contribution"
+,,,,,"Click ""contribute"" link in contribute section",maybe,"Abi sees the contributing link and would feel like she needs to get more information about that in order to complete her goal, since there is no other information about documentation contribution",maybe,the section at the bottom talks about contributing to the readme but Abi might be confused because it doesnt give her enough information about documentation contribution 
+,,Make a documentation contribution to the readme.md on the landing page,maybe,"Although Abi did not get a lot of information about it, and probably doesnt know how to, she would maybe still know that this is the next step that she needs to take. Abi might also think to try another way to edit the readme",back track to landing page,yes,,yes,
+,,,,,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readme in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",yes,
+,,,,,Click on the pencil icon in the right hand corner,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Libuv,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,Abi s does not see a lot of headers that relate to theissue list or headers. There is a contributing link but its under a patches header which may make her feel like shes not making progress.
+,,,,,"click ""guidelines for contributing""",maybe,Abi wants to find more info about contributing and the issue list but she doesn't know if this is the right path since it's under a header entitled patches.,maybe,Abi feels like she is making proress because as she rreads the page it takes her to the heading says contributing and theres isn't a mention of patches anymore which may make her feel misled. Abi also sees issues mentioned. There is a lot of code and links but missing context that Abi needs.
+,,Find the issue list,maybe,"Abi might think she needs to fork the project since the document she read talks a lot about forking. But also becuase it mentions the issue tracker and abi knows that this is her overall goal, she might think to next find the issue list.","Click on ""issue tracker""",yes,,yes,
+,,Choose an issue to work on,yes,,"Click on ""weve collected some good first issues for you""",maybe,"ABi might first read through the issue list since they are well labeled and some are labeled ""good first issue"" but also she would see the link to good first issues on top and might think to click that",yes,
+,,,,,"Choose ""unix: support long path names in pipe.c"" issue",yes,,maybe,"Abi is given a short description and sees some comments which helps make her feel like she's making progress, but there's a lot of jargon and not a lot of information about where the issue is in the code"
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,no,Abi doesn't see any information about creating an issue and only sees one link about contributing.
+,,File a new issue,no,Abi wouldn't think to do this since she found no information on the README about filing an issue or the issue list in general she wouldn't think this would be her next step,Click the issues tab,maybe,Because Abi has found so little information she might abandon this goal or feel uncertain. But it is the only mention of issues on the page so Abi still might click this tab.,yes,
+,,,,,"Click ""New issue"" button",Yes,,yes,
+,,,,,Fill out issue form,yes,,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,Abi might feel like she is making proress because of the contributing link and the bottom (even though that does not take her to the right place) but other than that there is little information so abi might feel like she is not making progress.
+,,Make a documentation contribution to the readme.md on the landing page,no,Abi didn't find much information about documentation contributions so she wouldn't think that this is her next step.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readme in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",maybe,She is in the same file as before. She expected an editable file but this is not editable. Abi might feel like she ended up in the same place she started if she sees the readme page again.
+,,,,,Click on the pencil icon in the right hand corner,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
+Sbt,Find an issue to work on,Find information about issue list,yes,,Read the ReadMe,yes,,maybe,"There is a contributing link but it says to click it for help with opening an issue so abi might feel like she is not making progress. The line ""For general documentation, see https://www.scala-sbt.org/"" makes her doubt she isnt in the right place."
+,,Find the issue list,Maybe,Abi knows that her overall goal is to find an issue and would naturally think this would be her next step but she didn't find any info about finding an issue so she may think she needs to find more info,"Click ""issues"" tab",maybe,Abi knows that her subgoal is to find the issue list but she doesn't feel that she has gathered enough info to know where it is.,yes,
+,,Choose an issue to work on,yes,,"Click on ""weve collected some good first issues for you""",maybe,"ABi might first read through the issue list since they are well labeled and some are labeled ""good first issue"" but also she would see the link to good first issues on top and might think to click that",yes,
+,,,,,"Click on "" Source links in scaladoc don't work #5462""",yes,,maybe,Abi sees all the headers she's looking for but it doesn't include much context for her to work on the issue.
+,File a new issue,Find information about filing a new issue,yes,,Read the ReadMe,yes,,yes,
+,,,,,Click on CONTRIBUTING link,yes,,yes,
+,,File a new issue,yes,,Click issues link,yes,,yes,
+,,,,,Search to see if its already been reported,yes,,yes,
+,,,,,"Click ""New issue"" button",Yes,,yes,
+,,,,,"Click on ""bug report""",yes,,yes,
+,,,,,Fill out issue form,yes,,yes,
+,Make a documentation contribution to the readme.md and send a pull request,Find information about how to make a documentation contribution,yes,,Read the ReadMe,yes,,maybe,There is no mention of doucmentation and the contributin glink says to click for information about filing an issue so abi might feel like she isnt making progress. But she also migh tfeel that the contributing link would take her to more information.
+,,,,,"Click ""CONTRIBUTING"" link",maybe,Abi sees that it doesn't mention anything about contributing documentation but she's still trying to contribute so she might still go to that link,yes,
+,,Make a documentation contribution to the readme.md on the landing page,no,Abi thinks that she needs to follow the link in the documentation section but it leads her to a setup page for code contributions. She would become more confused if she went to that link.,"Click on ""README.md"" in the file list",No,"Abi is process oriented and not a tinkerer, she wants to see a set of instructions on how to do something. She will not click the readme in the file listing since she believes she is already at the readme and that is more of a tinkerer's instinct.",yes,
+,,,,,Click on the pencil icon in the right hand corner,maybe,Depends on if she hovers over it. There is not a lot of information about it.,yes,
+,,,,,"Type changes in readme and click ""Propose file change""",maybe,Abi might not know what to put inside the textbox,,
